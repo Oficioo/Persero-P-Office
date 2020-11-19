@@ -5,7 +5,7 @@
 
 *User* menerima fax masuk baru di menu **"Inbox - Fax Masuk"**. Fax masuk dapat didisposisikan kepada pejabat yang dipilih atau pejabat yang ada dibawahnya. Disposisi fax masuk dapat dilakukan dengan dua cara yaitu melalui menu **Inbox** jika fax masuk yang diterima merupakan surat masuk yang ditujukan langsung dari sekretaris ke pejabat pemilik KBOnya atau melalui menu **Disposisi** jika fax masuk sudah dilakukan tindak lanjut oleh pejabat pemilik KBO dan pemilik KBO akan mendisposisikan ke pejabat selanjutnya atau pejabat yang ada dibawahnya. 
 
-## **P-Office Versi IOS**
+## **P-Office Versi Web**
 
 Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut:
 
