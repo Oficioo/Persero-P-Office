@@ -44,4 +44,3 @@ Langkah - langkah untuk mencetak dokumen via Teams adalah sebagai berikut:
 4. Data akan tampil berdasarkan filter yang sudah dipilih kemudian klik tombol **Excel** untuk mencetak
 
 ![gambar](DocumentControl/DC_Teams/DC20.png)
-
