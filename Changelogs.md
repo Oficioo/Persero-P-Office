@@ -17,6 +17,7 @@ Yang termasuk dalam rilis ini sebagai berikut:
 1. Klik ikon **Help** di area header
 2. Lihat nomor versi di bawah Logo **P-Office**.
 
+
 ### Release note 12 Desember 2020
 
 >**Version Web** : 1.3.4
