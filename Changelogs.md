@@ -48,10 +48,10 @@ Yang termasuk dalam rilis ini sebagai berikut:
 >**Version Web** : 1.3.4.2
 >**Build** : 20201230.1 
 
-Web & Mobile Service:
-- Fixed mail tracking not completed at node 6 (Fix mail tarcking which should have been completed but still not finished)
-- Fixed a Double Disposition issue with disposition recipients
-- Fixed a problem with the name of PJS officials who did not appear when making a letter approval (SP3S and SPPTH)
-- Adjustment of mail numbering for new year (Reset Number)
-- Added an English Surat Keluar document template feature
-- Added English Fax Keluar document template features
+Web:
+- Perbaikan tracking surat belum selesai pada node 6  (Perbaikan tarcking surat yang seharusnya sudah selesai namun masih flagging on progress)
+- Perbaikan issue Disposisi Double pada penerima disposisi
+- Perbaikan issue Nama pejabat PJS yang tidak tampil saat melakukan Approval surat (SP3S dan SPPTH)
+- Penyesuaian kembali penomoran surat untuk pergantian tahun baru (Reset Nomor)
+- Penambahan fitur template dokumen Surat Keluar berbahasa Inggris
+- Penambahan fitur template dokumen Fax Keluar berbahasa Inggris 
