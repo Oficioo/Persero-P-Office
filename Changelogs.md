@@ -44,3 +44,21 @@ Yang termasuk dalam rilis ini sebagai berikut:
 - Fixing SP3S flow 
 - Fixing SPPTH flow 
 - Fixing add reviewer Memorandum
+
+>**Version Web** : 1.3.4.2
+>**Build** : 20201230.1 
+
+Web :
+- Perbaikan tracking surat belum selesai pada node 6  (Perbaikan tarcking surat yang seharusnya sudah selesai namun masih flagging on progress)
+- Perbaikan issue Disposisi Double pada penerima disposisi
+- Perbaikan issue Nama pejabat PJS yang tidak tampil saat melakukan Approval surat (SP3S dan SPPTH)
+- Penyesuaian kembali penomoran surat untuk pergantian tahun baru (Reset Nomor)
+- Penambahan fitur template dokumen Surat Keluar berbahasa Inggris
+- Penambahan fitur template dokumen Fax Keluar berbahasa Inggris
+ 
+Mobile :
+- Perbaikan tracking surat (Perbaikan tarcking surat yang seharusnya sudah selesai namun masih flagging on progress)
+- Perbaikan issue Disposisi Double pada penerima disposisi
+- Perbaikan issue Nama pejabat PJS yang tidak tampil saat melakukan Approval surat (SP3S dan SPPTH)
+- Penyesuaian kembali penomoran surat untuk pergantian tahun baru (Reset Nomor)
+- Penambahan fitur template dokumen Fax Keluar berbahasa Inggris
