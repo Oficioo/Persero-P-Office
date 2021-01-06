@@ -2,25 +2,25 @@
 
 - Sekretaris
 
-Sekretaris dapat melihat daftar dokumen draft yang mencatatkan seluruh dokumen yang masih tersimpan di draft masing-masing pejabat.
+Sekretaris dapat melihat daftar surat yang masih berada di draft pejabat atasan dan belum ditindak lanjuti
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melihat daftar dokumen draft via Web adalah sebagai berikut:
+Langkah-langkah untuk melihat daftar dokumen draft via Web adalah sebagai berikut:
 
-1. Klik menu **Document Control** dan pilih submenu **Document View - Inbox**
+1. Klik menu **Document Control** dan pilih submenu **Document View - Draft**
 
 ![gambar](DocumentControl/DC_Web/MM02.png)
 
-2. Sistem menampilkan dokumen masuk yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*
+2. Sistem menampilkan dokumen draft yang meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*
 
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumen draft via Teams adalah sebagai berikut:
+Langkah-langkah untuk melihat daftar dokumen draft via Teams adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Draft**
 
 ![gambar](DocumentControl/DC_Teams/DC02.png)
 
-2. Sistem menampilkan dokumen masuk yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*
+2. Sistem menampilkan dokumen draft yang meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*

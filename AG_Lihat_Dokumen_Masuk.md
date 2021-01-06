@@ -6,7 +6,7 @@ Sekretaris dapat melihat daftar dokumen masuk (Inbox) yang mencatatkan seluruh d
 
 ## **P-Office Versi Web**
 
-Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris untuk melihat dokumen milik atasan pejabatnya pada menu Document Control
+Berikut ini terdapat video yang menjelaskan langkah-langkah sebagai sekretaris untuk melihat dokumen milik atasan pejabatnya pada menu Document Control
 
 </br>
 <a href="https://web.microsoftstream.com/embed/video/3507c9b1-61d5-4d08-8737-a7edf545df0f?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM05.png" alt="Watch the video"></a>
@@ -20,7 +20,7 @@ Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumen masuk (Inbox) via Teams adalah sebagai berikut:
+Langkah-langkah untuk melihat daftar dokumen masuk (Inbox) via Teams adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Inbox**
 

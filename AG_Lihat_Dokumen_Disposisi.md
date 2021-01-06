@@ -2,11 +2,11 @@
 
 - Sekretaris
 
-Sekretaris dapat melihat daftar dokumen disposisi yang mencatatkan seluruh dokumen yang didisposisikan kepada jabatan atasan sekretaris
+Sekretaris dapat melihat daftar disposisi yang diterima oleh pejabat atasan
 
 ## **P-Office Versi Web**
 
-Langkah-langkah untuk melihat daftar dokumen disposisi via Web adalah sebagai berikut
+Langkah-langkah untuk melihat daftar disposisi via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Disposisi**
 
@@ -18,7 +18,7 @@ Langkah-langkah untuk melihat daftar dokumen disposisi via Web adalah sebagai be
 
 ## **P-Office Versi Teams**
 
-Langkah-langkah untuk melihat daftar dokumen Disposisi via Teams adalah sebagai berikut:
+Langkah-langkah untuk melihat daftar Disposisi via Teams adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Disposisi**
 

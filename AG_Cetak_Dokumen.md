@@ -25,9 +25,9 @@ Langkah-langkah untuk filter data surat pada agenda kendali via Web adalah sebag
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk mencetak dokumen via Teams adalah sebagai berikut:
+Langkah-langkah untuk filter dokumen pada agenda kendala via Teams adalah sebagai berikut:
 
-1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk / Dokumen Keluar / Dokumen Disposisi**
+1. Klik menu **Document Control** dan pilih **Dokumen View** kemudian pilih **Inbox/Draft/Sent Item/Disposition/Rejected**
 
 ![gambar](DocumentControl/DC_Teams/DC17.png)
 
@@ -35,7 +35,7 @@ Langkah - langkah untuk mencetak dokumen via Teams adalah sebagai berikut:
 
 ![gambar](DocumentControl/DC_Teams/DC18.png)
 
-3. Pilih filter yang akan dicetak kemudian klik **Save**
+3. Pilih filter yang akan dicetak kemudian klik **Filter**
 
 ![gambar](DocumentControl/DC_Teams/DC19.png)
 

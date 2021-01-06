@@ -2,25 +2,25 @@
 
 - Sekretaris
 
-Sekretaris dapat melihat daftar dokumen yang ditolak oleh atasan pejabat sekretaris tersebut
+Sekretaris dapat melihat daftar dokumen yang ditolak, dikembalikan atau dibatalkan di pejabat atasan
 
 ## **P-Office Versi Web**
 
-Langkah - untuk melihat daftar dokumen dokumen yang ditolak via Web adalah sebagai berikut
+Langkah-langkah untuk melihat daftar dokumen dokumen yang ditolak, dikembalikan atau dibatalkan via Web adalah sebagai berikut:
 
-1. Klik menu **Document Control** dan pilih submenu **Document View - Disposisi**
+1. Klik menu **Document Control** dan pilih submenu **Document View - Rejected**
 
 ![gambar](DocumentControl/DC_Web/MM05.png)
 
-2. Sistem menampilkan dokumen disposisi yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*
+2. Sistem menampilkan dokumen yang ditolak, dikembalikan atau dibatalkan yang meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*
 
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumen tolak via Teams adalah sebagai berikut:
+Langkah-langkah untuk melihat daftar dokumen ditolak, dikembalikan atau dibatalkan via Teams adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Rejected**
 
 ![gambar](DocumentControl/DC_Teams/DC05.png)
 
-2. Sistem menampilkan dokumen disposisi yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*
+2. Sistem menampilkan dokumen disposis yang ditolak, dikembalikan dan dibatalkan yang meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*
