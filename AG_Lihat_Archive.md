@@ -6,7 +6,7 @@ Sekretaris dapat melihat daftar dokumen yang diarsipkan milik atasan pejabat sek
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melihat daftar dokumen yang diarsipkan via Web adalah sebagai berikut
+Langkah-langkah untuk melihat daftar dokumen yang diarsipkan via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Archive**
 
@@ -17,7 +17,7 @@ Langkah - langkah untuk melihat daftar dokumen yang diarsipkan via Web adalah se
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumen Archive via Teams adalah sebagai berikut:
+Langkah-langkah untuk melihat daftar dokumen Archive via Teams adalah sebagai berikut:
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Archive**
 
