@@ -30,7 +30,6 @@ Berikut ini video tutorial yang menjelaskan langkah-langkah untuk mengesahkan su
 
 5. Sistem menampilkan *form* Validation of Digital Signature kemudian masukan kode OTP jika menggunakan Peruri atau masukan NIK dan Passphrase untuk BSSN
 
-
 6. Klik button **Sign**
  
 ![gambar](SuratKeluar/SK_Web/SK56.png)
@@ -89,7 +88,7 @@ Langkah-langkah untuk mengesahkan surat keluar via Android adalah sebagai beriku
    
 ![gambar](SuratKeluar/SK_Android/NomorSK/A09.jpg)
 
-. Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
+Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
 ## **P-Office Versi IOS**
 
