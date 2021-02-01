@@ -1,10 +1,10 @@
-Pada bagian ini akan dijelaskan mengenai role sebagai *approver* dalam aplikasi P-Office yang mengelola menu surat masuk, surat keluar, memorandum, fax masuk, fax keluar, SP3S dan SPPTH. Sekretaris adalah pekerja yang diberikan wewenang untuk melakukan pekerjaan misalnya pencatatan surat masuk, mengelola agenda kendali, mengelola dokumen yang masuk pada atasan pejabatnya dan lain-lain. 
-Berikut adalah role approver dalam aplikasi P-Office antara lain adalah sebagai berikut :
+Pada bagian ini akan dijelaskan mengenai role sebagai *approver* dalam aplikasi P-Office berkaitan dengan Surat Masuk, Surat Keluar, Memorandum, Fax Masuk, Fax Keluar, SP3S dan SPPTH. _Approver_ adalah role yang diberikan kepada pejabat pemilik KBO yang bertindak dan diberikan kewenangan untuk melakukan proses persetujuan terhadap sebuah surat yang dibuat oleh konseptor untuk disetujui dan diberikan tandatangan.
+Berikut adalah role _approver_ dalam aplikasi P-Office antara lain adalah sebagai berikut:
 
 ### **Surat Masuk**
 
-Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya.
-Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat masuk antara lain:
+Pada modul ini mendukung proses input Surat Masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya.
+Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola Surat Masuk antara lain:
 
 - [Melihat Daftar Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/135d71654b6d43d5b4217cbb69ae74a7)
 - [Melihat Informasi lengkap Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/59c8f5d18c214cb49ddf54071ce12cbe)
@@ -20,8 +20,8 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat masuk antara 
 
 ### **Surat Keluar**
 
-Pada modul ini mendukung proses pembuatan konsep surat keluar yang ditujukan untuk eksternal Pertamina. Pembuat konsep surat keluar atau disebut sebagai konseptor surat akan mengirimkan draf surat keluar untuk dicek oleh reviewer dan disetujui oleh approver. Setelah surat sudah disetujui maka akan diberikan nomor surat keluar secara otomatis melalui sistem. 
-Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat keluar antara lain:
+Pada modul ini mendukung proses pembuatan konsep Surat Keluar yang ditujukan untuk eksternal Pertamina. Pembuat konsep Surat Keluar atau disebut sebagai konseptor surat akan mengirimkan draf Surat Keluar untuk dicek oleh _reviewer_ dan disetujui oleh _approver_. Setelah surat sudah disetujui maka akan diberikan nomor Surat Keluar secara otomatis melalui sistem. 
+Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola Surat Keluar antara lain:
 
 - [Melihat Daftar Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/0801281eaff9454caa1a933040e4dcc6)
 - [Menambah Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/67e6e801787840d5ad7fe473551211d7)
@@ -38,8 +38,8 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat keluar antara
 
 ### **Memorandum**
 
-Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh reviewer/approver. Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu "Inbox" dan dapat mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf. 
-Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola memorandum antara lain:
+Pada modul ini mendukung proses pembuatan konsep Memorandum yang akan disetujui oleh reviewer/approver. Setelah Memorandum disetujui maka akan diberikan nomor Memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan Memorandum masuk pada menu "Inbox" dan dapat mendisposisikan Memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf. 
+Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola Memorandum antara lain:
 
 - [Melihat Daftar Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/8bd57e3dfab94545a26729db94d1493c)
 - [Melihat Informasi lengkap Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/4c55c853ff4243d59448f6b69794c745)
@@ -58,8 +58,8 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola memorandum antara l
 
 ### **Fax Masuk**
 
-Pada modul ini mendukung proses penambahan fax masuk oleh sekretaris atau pekerja yang ditunjuk dari pejabat yang bersangkutan. Fax masuk yang sudah diinputkan akan dikirimkan kepada pejabat pemilik KBO dan dapat dilakukan disposisi kepada pejabat yang ada di bawahnya. 
-Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola fax masuk antara lain:
+Pada modul ini mendukung proses penambahan Fax Masuk oleh sekretaris atau pekerja yang ditunjuk dari pejabat yang bersangkutan. Fax Masuk yang sudah diinputkan akan dikirimkan kepada pejabat pemilik KBO dan dapat dilakukan disposisi kepada pejabat yang ada di bawahnya. 
+Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola Fax Masuk antara lain:
 
 - [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
 - [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
