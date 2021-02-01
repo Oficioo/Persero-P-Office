@@ -14,15 +14,15 @@ Berikut ini video tutorial yang menjelaskan langkah-langkah untuk mengesahkan su
 
 1. Klik menu **Inbox-Direct** dan pilih tab **Surat Keluar**
 
-    ![gambar](SuratKeluar/SK_Web/SK52.png)
+![gambar](SuratKeluar/SK_Web/SK52.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-    ![gambar](SuratKeluar/SK_Web/SK53.png)
+![gambar](SuratKeluar/SK_Web/SK53.png)
 
 3. Klik **Approve** kemudian pilih **Send**
 
-    ![gambar](SuratKeluar/SK_Web/SK54.png)
+![gambar](SuratKeluar/SK_Web/SK54.png)
 
 4. Pilih **Signature Correspondence** menggunakan Peruri/BSSN/tanpa Digital Sign
 
