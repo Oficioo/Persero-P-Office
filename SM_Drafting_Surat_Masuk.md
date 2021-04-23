@@ -21,7 +21,7 @@ Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
 
 ![gambar](SuratMasuk/SM_Web/SM07.png)
 
-4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Outbox - Surat Masuk"**
+4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Sent Item - Surat Masuk"**
 
 
 ## **P-Office Versi Teams**
@@ -43,7 +43,7 @@ Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
 
 ![gambar](SuratMasuk/SM_Teams/SM09.png)
 
-4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Surat Masuk”**
 
 
 ## **P-Office Versi Android**
@@ -62,7 +62,7 @@ Langkah-langkah untuk Drafting surat masuk adalah sebagai berikut.
 
 ![gambar](SuratMasuk/SM_Android/DraftSM/A06.jpg) ![gambar](SuratMasuk/SM_Android/DraftSM/A07.jpg)
 
-4. Lakukan perubahan pada _form_. Klik **Send a Mail** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send a Mail** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Surat Masuk”**
 
 ## **P-Office Versi IOS**
 
@@ -80,5 +80,5 @@ Langkah-langkah untuk Drafting surat masuk adalah sebagai berikut.
 
 ![gambar](SuratMasuk/SM_IOS/SM-11.png) ![gambar](SuratMasuk/SM_IOS/CR-SM1.png)
 
-4.	Lakukan perubahan pada _form_. Klik **Send a Mail** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
+4.	Lakukan perubahan pada _form_. Klik **Send a Mail** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Surat Masuk”**
 

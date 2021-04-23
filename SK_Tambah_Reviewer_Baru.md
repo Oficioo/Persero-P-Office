@@ -24,7 +24,7 @@ Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai be
 
 ![gambar](SuratKeluar/SK_Web/SK50.png)
 
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu **"Outbox - Surat Keluar"**. Untuk pejabat/reviewer baru akan menerima surat keluar di menu **"Inbox - Surat Keluar"**
+5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu **"Sent Item - Surat Keluar"**. Untuk pejabat/reviewer baru akan menerima surat keluar di menu **"Inbox - Surat Keluar"**
 
 ![gambar](SuratKeluar/SK_Web/SK51.png)
 
@@ -48,7 +48,7 @@ Langkah - langkah untuk tambah reviwer baru via Teams adalah sebagai berikut :
  
 ![gambar](SuratKeluar/SK_Teams/SK52.png)
 
-1. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu **“Outbox - Surat Keluar”**. Untuk pejabat/reviewer baru akan menerima surat keluar di menu **“Inbox – Surat Keluar”**
+1. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu **“Sent Item - Surat Keluar”**. Untuk pejabat/reviewer baru akan menerima surat keluar di menu **“Inbox – Surat Keluar”**
  
 ![gambar](SuratKeluar/SK_Teams/SK53.png)
 
@@ -72,7 +72,7 @@ Langkah-langkah untuk menambahkan Reviewer baru surat keluar via Android adalah 
 
 ![gambar](SuratKeluar/SK_Android/ReviewerSK/A07.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A08.jpg)
 
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Surat Keluar**”
+5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Sent Item - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Surat Keluar**”
 
 ## **P-Office Versi IOS**
 
@@ -90,6 +90,6 @@ Langkah-langkah untuk menambah reviewer surat keluar via IOS adalah sebagai beri
 
 ![gambar](SuratKeluar/SK_IOS/SK-45.png)
 
-4.	Klik Submit untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Surat Keluar**”
+4.	Klik Submit untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Sent Item - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Surat Keluar**”
 
 ![gambar](SuratKeluar/SK_IOS/SK-46.png)

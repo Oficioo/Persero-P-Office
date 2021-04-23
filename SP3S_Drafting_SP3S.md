@@ -73,7 +73,7 @@ Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 
 ![gambar](SP3S/SP3S_Web/SP25.png)
 
-2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Outbox - SP3S"**
+2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - SP3S"**
 
 ## **P-Office Versi Teams**
 
@@ -141,7 +141,7 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
 
 ![gambar](SP3S/SP3S_Teams/SP3S25.png)
 
-2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Outbox - SP3S”**
+2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
 
 ## **P-Office Versi Android**
 
@@ -195,7 +195,7 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
 
 ![gambar](SP3S/SP3S_Android/DraftSP3S/K01.jpg)
 
-2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu “**Outbox - SP3S**”
+2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu “**Sent Item - SP3S**”
 
 ## **P-Office Versi IOS**
 
@@ -239,5 +239,5 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
 
 ![gambar](SP3S/SP3S_IOS/SP3S-15.png) 
 
-2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Outbox - SP3S”**
+2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
 

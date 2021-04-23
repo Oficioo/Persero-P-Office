@@ -27,7 +27,7 @@ Langkah - langkah untuk mendisposisikan surat masuk via Web adalah sebagai berik
 
 ![gambar](SuratMasuk/SM_Web/SM25.png)
 
-5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Outbox - Disposisi**".
+5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Sent Item - Disposisi**".
 
 ####   **Disposisi melalui Menu Disposisi**
 
@@ -47,7 +47,7 @@ Langkah - langkah untuk mendisposisikan surat masuk via Web adalah sebagai berik
 
 ![gambar](SuratMasuk/SM_Web/SM29.png)
 
-5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Outbox - Disposisi**".
+5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Sent Item - Disposisi**".
 
 ## **P-Office Versi Teams**
 
@@ -71,7 +71,7 @@ Langkah - langkah untuk disposisi surat masuk via Teams adalah sebagai berikut :
 
 ![gambar](SuratMasuk/SM_Teams/SM28.png)
 
-5.  Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Outbox – Disposisi”**.
+5.  Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**.
 
 - **Disposisi melalui Menu Disposisi**
 
@@ -91,7 +91,7 @@ Langkah - langkah untuk disposisi surat masuk via Teams adalah sebagai berikut :
 
 ![gambar](SuratMasuk/SM_Teams/SM32.png)
 
-5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Outbox – Disposisi”**
+5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**
 
 ## **P-Office Via Android**
 

@@ -17,7 +17,7 @@
 
 ![gambar](FaxKeluar/FK_Web/FK35.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox - Fax Keluar**
+4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar**
 
 
 ## **P-Office Versi Teams**
@@ -36,7 +36,7 @@ Langkah - langkah untuk menyetujui fax keluar via Teams adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_Teams/FK38.png)
 
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox - Fax Keluar**
+4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar**
 
 ## **P-Office Versi Android**
 
@@ -54,7 +54,7 @@ Langkah - langkah untuk menyetujui fax keluar via Android adalah sebagai berikut
    
 ![gambar](FaxKeluar/FK_Android/SetujuFK/A04.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox- Fax Keluar**
+4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Fax Keluar**
 
 ## **P-Office Versi IOS**
 
@@ -68,6 +68,6 @@ Langkah - langkah untuk menyetujui fax keluar via IOS adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_IOS/FK-26.1.png) ![gambar](FaxKeluar/FK_IOS/FK-26.2.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **"Outbox – Fax Keluar"** 
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **"Sent Item ï¿½ Fax Keluar"** 
 
 ![gambar](FaxKeluar/FK_IOS/FK-27.png)

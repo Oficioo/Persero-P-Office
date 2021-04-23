@@ -24,7 +24,7 @@ Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui m
 
 ![gambar](Memorandum/MM_Web/MM-38.png)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum**
 
 ## **P-Office Versi Teams**
 
@@ -42,7 +42,7 @@ Langkah-langkah untuk menyetujui Memorandum via Teams adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Teams/MM38.png)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum**
 
 ## **P-Office Versi Android**
 
@@ -63,7 +63,7 @@ Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui m
 
 ![gambar](Memorandum/MM_Android/Setujumemo/A05.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A06.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox- Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item- Memorandum**
 
 ## **P-Office Versi IOS**
 
@@ -77,6 +77,6 @@ Langkah-langkah untuk menyetujui Memorandum via IOS adalah sebagai berikut
 
 ![gambar](Memorandum/MM_IOS/MM-37.png) ![gambar](Memorandum/MM_IOS/MM-38.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat Keluar**
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat Keluar**
 
 ![gambar](Memorandum/MM_IOS/MM-39.png)

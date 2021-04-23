@@ -24,7 +24,7 @@ Langkah-langkah untuk save as template memorandum via Web adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Web/MM-17.png)
 
-5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Memorandum"**.
+5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Memorandum"**.
 
 ## **P-Office Versi Teams**
 
@@ -46,7 +46,7 @@ Langkah-langkah untuk save as template memorandum via Teams adalah sebagai berik
 
 ![gambar](Memorandum/MM_Teams/MM17.png)
 
-5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Memorandum"**.
+5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Memorandum"**.
 
 ## **P-Office Versi Android**
 
@@ -68,7 +68,7 @@ Langkah-langkah untuk menyimpan memorandum sebagai template via Android adalah s
 
 ![gambar](Memorandum/MM_Android/Tempmemo/A08.jpg) ![gambar](Memorandum/MM_Android/Tempmemo/A09.jpg)
 
-5. Lakukan perubahan pada surat, klik **Save Mail** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **“Draft – Memorandum”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Memorandum”.**
+5. Lakukan perubahan pada surat, klik **Save Mail** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **“Draft – Memorandum”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Memorandum”.**
 
 
 ## **P-Office Versi IOS**
@@ -91,4 +91,4 @@ Langkah-langkah untuk menyimpan memorandum sebagai template via IOS adalah sebag
 
 ![gambar](Memorandum/MM_IOS/MM-CR03.png) ![gambar](Memorandum/MM_IOS/MM-CR04.png)
 
-5.	Lakukan perubahan pada surat, klik **Save Mail** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **“Draft – Memorandum”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Memorandum”.**
+5.	Lakukan perubahan pada surat, klik **Save Mail** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **“Draft – Memorandum”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Memorandum”.**

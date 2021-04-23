@@ -20,7 +20,7 @@ Langkah - langkah untuk menyetujui SPPTH via Web adalah sebagai berikut
 
 ![gambar](SPPTH/SPPTH_Web/TH31.png)
 
-4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Outbox - SPPTH**
+4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item - SPPTH**
 
 ## **P-Office Versi Teams**
 
@@ -38,7 +38,7 @@ Langkah - langkah untuk setujui SPPTH via Teams adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH32.png)
 
-4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu Outbox – SPPTH
+4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu Sent Item – SPPTH
 
 ## **P-Office Versi Android**
 
@@ -56,7 +56,7 @@ Langkah - langkah untuk setujui SPPTH via Android adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A04.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Outbox – SPPTH**
+4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item – SPPTH**
 
 ## **P-Office Versi IOS**
 
@@ -74,5 +74,5 @@ Langkah - langkah untuk setujui SPPTH via IOS adalah sebagai berikut :
  
 ![gambar](SPPTH/SPPTH_IOS/SPPTH-23.png)
 
-4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Outbox – SPPTH**
+4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item – SPPTH**
 

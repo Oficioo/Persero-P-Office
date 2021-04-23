@@ -24,7 +24,7 @@ Langkah - langkah untuk Save as template via Web adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_Web/SK17.png)
 
-5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **"Draft - Surat Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Surat Keluar"**.
+5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **"Draft - Surat Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Surat Keluar"**.
 
 ## **P-Office Versi Teams**
 
@@ -46,7 +46,7 @@ Langkah - langkah untuk save as template via Teams adalah sebagai berikut :
  
 ![gambar](SuratKeluar/SK_Teams/SK18.png)
 
-5.	Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Surat Keluar”**.
+5.	Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Surat Keluar”**.
 
 ## **P-Office Versi Android**
 
@@ -68,7 +68,7 @@ Langkah – langkah untuk save as template via Android adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_Android/TempSK/A09.jpg) ![gambar](SuratKeluar/SK_Android/TempSK/A10.jpg)
 
-5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Surat Keluar”.**
+5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Surat Keluar”.**
 
 ## **P-Office Versi IOS**
 
@@ -90,4 +90,4 @@ Langkah – langkah untuk Save as Template via IOS adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_IOS/SK-20.png)
 
-5.	Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Surat Keluar”.**
+5.	Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Surat Keluar”.**

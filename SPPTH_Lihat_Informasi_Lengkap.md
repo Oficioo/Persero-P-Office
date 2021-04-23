@@ -10,7 +10,7 @@
 
 Langkah - langkah untuk melihat informasi SPPTH via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SPPTH.** Pilih salah satu SPPTH yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SPPTH.** Pilih salah satu SPPTH yang akan dilihat informasinya
 
 ![gambar](SPPTH/SPPTH_Web/TH25.png)
 
@@ -36,7 +36,7 @@ Pada tab **History**, ditampilkan riwayat SPPTH yang terdapat informasi jabatan,
 
 Langkah - langkah untuk lihat informasi SPPTH via Teams adalah sebagai berikut :
 
-1.    Klik menu **Inbox/Draft/Outbox** dan pilih tab **SPPTH**. Pilih salah satu SPPTH yang akan dilihat informasinya
+1.    Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SPPTH**. Pilih salah satu SPPTH yang akan dilihat informasinya
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH25.png)
 
@@ -64,7 +64,7 @@ Pada tab **History** SPPTH, ditampilkan riwayat SPPTH yang terdapat informasi ja
 
 Langkah - langkah untuk melihat informasi SPPTH via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SPPTH.** Pilih salah satu SPPTH yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SPPTH.** Pilih salah satu SPPTH yang akan dilihat informasinya
 
 ![gambar](SPPTH/SPPTH_Android/InfoSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/InfoSPPTH/A02.jpg)
 
@@ -90,7 +90,7 @@ Pada tab **History**, ditampilkan riwayat SPPTH yang terdapat informasi jabatan,
 
 Langkah-langkah untuk melihat informasi SPPTH via IOS adalah sebagai berikut :
 
-1.	Klik menu **Inbox/Draft/Outbox** dan pilih tab **SPPTH**. Pilih salah satu SPPTH yang akan dilihat informasinya
+1.	Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SPPTH**. Pilih salah satu SPPTH yang akan dilihat informasinya
 
 ![gambar](SPPTH/SPPTH_IOS/SPPTH-17.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-17.2.png)
 

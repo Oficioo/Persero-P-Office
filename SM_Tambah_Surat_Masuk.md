@@ -16,7 +16,7 @@ Langkah-langkah untuk menambah surat masuk via Web adalah sebagai berikut.
 
 ![gambar](SuratMasuk/SM_Web/SM03.png)
 
-3.	Isi form tambah surat masuk. Klik **Save** untuk menyimpan form surat dan surat akan tersimpan di menu "**Draft - Surat Masuk**". Klik **Save** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu "**Outbox - Surat Masuk**"
+3.	Isi form tambah surat masuk. Klik **Save** untuk menyimpan form surat dan surat akan tersimpan di menu "**Draft - Surat Masuk**". Klik **Save** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu "**Sent Item - Surat Masuk**"
 
 ![gambar](SuratMasuk/SM_Web/SM04.png)
 ![gambar](SuratMasuk/SM_Web/SM05.png)
@@ -36,7 +36,7 @@ Langkah - langkah untuk tambah surat masuk via Teams adalah sebagai berikut :
 
 ![gambar](SuratMasuk/SM_Teams/SM03.png)
 
-3.	Isi form tambah surat masuk. Klik **Save** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Send** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Outbox – Surat Masuk**”
+3.	Isi form tambah surat masuk. Klik **Save** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Send** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Sent Item – Surat Masuk**”
 
 ![gambar](SuratMasuk/SM_Teams/SM04.png)
 
@@ -58,7 +58,7 @@ Langkah-langkah untuk tambah surat masuk adalah sebagai berikut.
 
 ![gambar](SuratMasuk/SM_Android/TSM/A02.jpg)
 
-3. Isi form tambah surat masuk. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Send a Mail** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Outbox – Surat Masuk**”
+3. Isi form tambah surat masuk. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Send a Mail** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Sent Item – Surat Masuk**”
    
 ![gambar](SuratMasuk/SM_Android/TSM/A03.jpg) ![gambar](SuratMasuk/SM_Android/TSM/A04.jpg) ![gambar](SuratMasuk/SM_Android/TSM/A05.jpg)
 
@@ -76,7 +76,7 @@ Langkah-langkah untuk tambah surat masuk via IOS adalah sebagai berikut.
 
 ![gambar](SuratMasuk/SM_IOS/SM-4.png)
 
-3. Isi form tambah surat masuk. Klik **Next** untuk melanjutkan pengisian form surat masuk. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Send a Mail** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Outbox – Surat Masuk**”
+3. Isi form tambah surat masuk. Klik **Next** untuk melanjutkan pengisian form surat masuk. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Send a Mail** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Sent Item – Surat Masuk**”
    
 ![gambar](SuratMasuk/SM_IOS/SM-5.png) ![gambar](SuratMasuk/SM_IOS/SM-6.png)
 

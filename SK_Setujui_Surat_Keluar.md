@@ -21,7 +21,7 @@ Langkah - langkah untuk menyetujui surat keluar via Web adalah sebagai berikut
 
 ![gambar](SuratKeluar/SK_Web/SK37.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat Keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat Keluar**
 
 ## **P-Office Versi Teams**
 
@@ -39,7 +39,7 @@ Langkah - langkah untuk setujui surat keluar via Teams adalah sebagai berikut :
  
 ![gambar](SuratKeluar/SK_Teams/SK39.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat Keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**
 
 ## **P-Office Versi Android**
 
@@ -57,7 +57,7 @@ Langkah-langkah untuk melihat informasi surat keluar via Android adalah sebagai 
 
 ![gambar](SuratKeluar/SK_Android/SetujuSK/A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat Keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**
 
 ## **P-Office Versi IOS**
 
@@ -71,6 +71,6 @@ Langkah-langkah untuk menyetujui surat keluar via IOS adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_IOS/SK-71.png) ![gambar](SuratKeluar/SK_IOS/SK-36.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat Keluar**
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat Keluar**
 
 ![gambar](SuratKeluar/SK_IOS/SK-37.png)

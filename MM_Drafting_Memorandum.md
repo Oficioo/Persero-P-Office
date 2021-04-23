@@ -71,7 +71,7 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Web/MM-29.png)
 
-2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**
+2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Sent Item - Memorandum"**
 
 ## **P-Office Versi Teams**
 
@@ -140,7 +140,7 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Teams/MM29.png)
 
-2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**
+2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Sent Item - Memorandum"**
 
 ## **P-Office Versi Android**
 
@@ -190,7 +190,7 @@ Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 
 ![gambar](Memorandum/MM_Android/Draftmemo/K01.jpg)
 
-2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”
+2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Sent Item - Memorandum**”
 
 
 ## **P-Office Versi IOS**
@@ -231,4 +231,4 @@ Langkah – langkah untuk mengirim memorandum via IOS adalah sebagai berikut.
 
 ![gambar](Memorandum/MM_IOS/MM-11.png)
 
-2.	Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”
+2.	Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Sent Item - Memorandum**”

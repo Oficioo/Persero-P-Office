@@ -21,7 +21,7 @@ Langkah - langkah untuk mengembalikan surat keluar ke konseptor via Web adalah s
 
 ![gambar](SuratKeluar/SK_Web/SK43.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat Keluar** dan konseptor akan menerima surat keluar di menu **Draft - Surat Keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar** dan konseptor akan menerima surat keluar di menu **Draft - Surat Keluar**
 
 ## **P-Office Versi Teams**
 
@@ -39,7 +39,7 @@ Langkah - langkah untuk kembalikan konseptor via Teams adalah sebagai berikut :
  
 ![gambar](SuratKeluar/SK_Teams/SK45.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
 ## **P-Office Versi Android**
 
@@ -57,7 +57,7 @@ Langkah-langkah untuk melihat informasi surat keluar via Android adalah sebagai 
 
 ![gambar](SuratKeluar/SK_Android/KonsepSK/A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat Keluar**dan konseptor akan menerima surat keluar di menu **Draft – Surat Keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**dan konseptor akan menerima surat keluar di menu **Draft – Surat Keluar**
 
 ## **P-Office Versi IOS**
 

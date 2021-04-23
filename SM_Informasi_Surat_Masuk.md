@@ -11,7 +11,7 @@ _User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masu
 
 Langkah-langkah untuk melihat informasi surat masuk via Web adalah sebagai berikut.
 
-1.    Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk.** Pilih salah satu surat masuk yang akan dilihat informasinya
+1.    Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Masuk.** Pilih salah satu surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_Web/SM08.png)
 
@@ -46,7 +46,7 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 Langkah - langkah untuk Informasi surat masuk via Teams adalah sebagai berikut:
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk**. Pilih salah satu surat masuk yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Masuk**. Pilih salah satu surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_Teams/SM10.png)
 
@@ -81,7 +81,7 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 Langkah - langkah untuk melihat informasi surat masuk via Android adalah sebagai berikut:
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk** pilih salah satu surat masuk yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Masuk** pilih salah satu surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_Android/InfoSM/A01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/A02.jpg)
 
@@ -108,7 +108,7 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 Langkah-langkah untuk melihat informasi lengkap surat masuk via IOS adalah sebagai berikut :
 
-1.	Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk** Pilih salah satu surat masuk yang akan dilihat informasinya
+1.	Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Masuk** Pilih salah satu surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_IOS/SM-13.png) ![gambar](SuratMasuk/SM_IOS/SM-14.png)
 

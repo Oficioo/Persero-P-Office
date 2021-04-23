@@ -27,7 +27,7 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 ![gambar](FaxMasuk/FM_WEB/Disposisi04.png) 
 
-5. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 #### **Disposisi melalui Menu Disposisi**
 
@@ -47,7 +47,7 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 ![gambar](FaxMasuk/FM_WEB/Disposisi08.png) 
 
-5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 ## **P-Office Versi Teams**
 
@@ -71,7 +71,7 @@ Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
 
 ![gambar](FaxMasuk/FM_Teams/FM27.png)
 
-5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 #### **Disposisi melalui Menu Disposisi**
 
@@ -93,7 +93,7 @@ Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
 
 ![gambar](FaxMasuk/FM_Teams/FM32.png)
 
-5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 ## **P-Office Versi Android**
 
@@ -117,7 +117,7 @@ Langkah-langkah untuk mendisposisikan fax masuk adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A08.jpg)
 
-5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”.
+5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Sent Item – Disposisi**”.
 
 ##### **Disposisi melalui Menu Disposisi**
 
@@ -137,7 +137,7 @@ Langkah-langkah untuk mendisposisikan fax masuk adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A014.jpg)
 
-5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **“Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Outbox – Disposisi”**
+5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **“Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A015.jpg)
 
@@ -159,7 +159,7 @@ Langkah-langkah untuk mendisposisikan fax masuk via IOS adalah sebagai berikut:
 
 ![gambar](FaxMasuk/FM_IOS/FM-23.png)
 
-4. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”.
+4. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Sent Item – Disposisi**”.
 
 
 ###### **Disposisi melalui Menu Disposisi**
@@ -176,4 +176,4 @@ Langkah-langkah untuk mendisposisikan fax masuk via IOS adalah sebagai berikut:
 
 ![gambar](FaxMasuk/FM_IOS/FM-26.png)
 
-4. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu “**Draft – Fax Masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Outbox – Disposisi”**
+4. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu “**Draft – Fax Masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**

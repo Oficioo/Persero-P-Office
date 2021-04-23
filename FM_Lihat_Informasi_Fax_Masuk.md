@@ -11,7 +11,7 @@
 
 Langkah - langkah untuk melihat informasi fax masuk via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Fax Masuk.** Pilih salah satu fax masuk yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Fax Masuk.** Pilih salah satu fax masuk yang akan dilihat informasinya
 
 ![gambar](FaxMasuk/FM_WEB/InfoFM01.png) 
 

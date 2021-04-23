@@ -70,7 +70,7 @@ Langkah - langkah untuk menyelesaikan surat masuk menu via Android adalah sebaga
 
 ![gambar](SuratMasuk/SM_Android/SelesaiSM/A03.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/A04.jpg)
 
-4. Sistem menyimpan perubahan dan informasi selesai akan tersimpan di **Outbox-Surat Masuk**.
+4. Sistem menyimpan perubahan dan informasi selesai akan tersimpan di **Sent Item-Surat Masuk**.
 
 ## **P-Office Versi IOS**
 

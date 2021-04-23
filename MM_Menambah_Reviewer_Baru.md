@@ -24,7 +24,7 @@ Langkah - langkah untuk menambah reviewer memorandum vvia Web adalah sebagai ber
 
 ![gambar](Memorandum/MM_Web/MM-52.png)
 
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum"**
+5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Sent Item - Memorandum"**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum"**
 
 ![gambar](Memorandum/MM_Web/MM-53.png)
 
@@ -48,7 +48,7 @@ Langkah-langkah untuk menambah reviewer Memorandum via Teams adalah sebagai beri
 
 ![gambar](Memorandum/MM_Teams/MM52.png)
 
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum"**
+5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Sent Item - Memorandum"**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum"**
 
 ![gambar](Memorandum/MM_Teams/MM52.png)
 
@@ -76,7 +76,7 @@ Berikut ini video yang menjelaskan langkah - langkah approver untuk menambah rev
 
 ![gambar](Memorandum/MM_Android/Reviewermemo/A07.jpg) ![gambar](Memorandum/MM_Android/Reviewermemo/A08.jpg)
 
-4. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”. Untuk pejabat/reviewer baru akan menerima memorandum di menu “**Inbox – Memorandum**”
+4. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu “**Sent Item - Memorandum**”. Untuk pejabat/reviewer baru akan menerima memorandum di menu “**Inbox – Memorandum**”
 
 ## **P-Office Versi IOS**
 
@@ -94,6 +94,6 @@ Langkah-langkah untuk menambah reviewer memorandum via IOS adalah sebagai beriku
 
 ![gambar](Memorandum/MM_IOS/Memo/R05.png)
 
-4. Klik Submit untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Outbox - Memorandum**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Memorandum**”
+4. Klik Submit untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Sent Item - Memorandum**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Memorandum**”
 
 ![gambar](SuratKeluar/SK_IOS/SK-46.png)

@@ -17,7 +17,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via Web adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Web/TH48.png)
 
-3. SPPTH yang sudah tidak aktif akan tersimpan di menu **"Outbox - SPPTH"** *approver*. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **"Inbox - SPPTH"**
+3. SPPTH yang sudah tidak aktif akan tersimpan di menu **"Sent Item - SPPTH"** *approver*. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **"Inbox - SPPTH"**
 
 ## **P-Office Versi Teams**
 
@@ -31,7 +31,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via Teams adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH49.png)
 
-3.	SPPTH yang sudah tidak aktif akan tersimpan di menu **“Outbox – SPPTH”** approver. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SPPTH”**
+3.	SPPTH yang sudah tidak aktif akan tersimpan di menu **“Sent Item – SPPTH”** approver. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SPPTH”**
 
 ## **P-Office Versi Android**
 
@@ -45,7 +45,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via Android adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A03.jpg) ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A04.jpg)
 
-3. SPPTH yang sudah tidak aktif akan tersimpan di menu “**Outbox – SPPTH**” _approver_. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu “**Inbox – SPPTH**”
+3. SPPTH yang sudah tidak aktif akan tersimpan di menu “**Sent Item – SPPTH**” _approver_. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu “**Inbox – SPPTH**”
    
 ## **P-Office Versi IOS**
 
@@ -59,4 +59,4 @@ Langkah - langkah untuk menonaktifkan SPPTH via IOS adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_IOS/SPPTH-35.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-35.2.png)
 
-3.	SPPTH yang sudah tidak aktif akan tersimpan di menu **“Outbox – SPPTH”** approver. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu “Inbox – SPPTH”
+3.	SPPTH yang sudah tidak aktif akan tersimpan di menu **“Sent Item – SPPTH”** approver. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu “Inbox – SPPTH”

@@ -11,7 +11,7 @@
 
 Langkah - langkah untuk melihat informasi surat keluar via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Keluar**. Pilih salah satu surat keluar yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Keluar**. Pilih salah satu surat keluar yang akan dilihat informasinya
 
 ![gambar](SuratKeluar/SK_Web/SK30.png)
 
@@ -43,7 +43,7 @@ Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi j
 
 Langkah - langkah untuk melihat informasi surat keluar via Teams adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab Surat Keluar. Pilih salah satu surat keluar yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab Surat Keluar. Pilih salah satu surat keluar yang akan dilihat informasinya
 
 ![gambar](SuratKeluar/SK_Teams/SK31.png)
 
@@ -77,7 +77,7 @@ Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi j
 
 Langkah-langkah untuk melihat informasi surat keluar via Android adalah sebagai berikut :
 
-1. 	Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Keluar.**
+1. 	Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Keluar.**
    
 ![gambar](SuratKeluar/SK_Android/InfoSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/InfoSK/A02.jpg)
 
@@ -103,7 +103,7 @@ Pada pilihan **History**, ditampilkan riwayat surat keluar yang terdapat informa
 
 Langkah-langkah untuk melihat informasi surat keluar via IOS adalah sebagai berikut :
 
-1.	Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Keluar.** Pilih salah satu surat keluar yang akan dilihat informasinya
+1.	Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Keluar.** Pilih salah satu surat keluar yang akan dilihat informasinya
 
 ![gambar](SuratKeluar/SK_IOS/SK-27.png) ![gambar](SuratKeluar/SK_IOS/SK-28.png)
 

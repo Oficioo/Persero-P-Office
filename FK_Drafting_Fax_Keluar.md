@@ -67,7 +67,7 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 ![gambar](FaxKeluar/FK_Web/FK27.jpg)
 
-2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Outbox - Fax keluar"**
+2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Sent Item - Fax keluar"**
 
 ## **P-Office Versi Teams**
 
@@ -136,7 +136,7 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 ![gambar](FaxKeluar/FK_Teams/FK29.png)
 
-2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Outbox - Fax keluar"**
+2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Sent Item - Fax keluar"**
 
 
 ## **P-Office Versi Android**
@@ -191,7 +191,7 @@ Langkah – langkah untuk mengirim fax keluar adalah sebagai berikut.
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/K01.jpg)
 
-2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu “**Outbox - Fax keluar**”
+2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu “**Sent Item - Fax keluar**”
 
 ## **P-Office Versi IOS**
 
@@ -231,4 +231,4 @@ Langkah – langkah untuk mengirim fax keluar adalah sebagai berikut.
 
 ![gambar](FaxKeluar/FK_IOS/FK-20.png)
 
-2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu “**Outbox - Fax keluar**”
+2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu “**Sent - Fax keluar**”

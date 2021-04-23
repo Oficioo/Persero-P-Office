@@ -19,11 +19,11 @@ Berikut ini video tutorial yang menjelaskan langkah - langkah approver untuk men
 
 ![gambar](Memorandum/MM_Web/MM-55.png)
 
-3. Klik **Approve** kemudian pilih **Send**
+3. Klik **Approve** kemudian muncul popup dengan pilihan *without digital sign* atau **P-Sign** dan klik **Send**
 
 ![gambar](Memorandum/MM_Web/MM-56.png)
 
-4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Outbox - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
+4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
 
 ## **P-Office Versi Teams**
 
@@ -41,7 +41,7 @@ Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai beri
 
 ![gambar](Memorandum/MM_Teams/MM55.png)
 
-4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Outbox - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
+1. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
 
 ## **P-Office Versi Android**
 
@@ -58,7 +58,7 @@ Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan 
 
 ![gambar](Memorandum/MM_Android/Nomormemo/A03.jpg) ![gambar](Memorandum/MM_Android/Nomormemo/A04.jpg)
 
-3. Memorandum yang sudah disetujui akan tersimpan di menu “**Outbox - Memorandum**” pengirim sedangkan memorandum akan tersimpan di menu “**Inbox - Memorandum**” penerima
+3. Memorandum yang sudah disetujui akan tersimpan di menu “**Sent Item - Memorandum**” pengirim sedangkan memorandum akan tersimpan di menu “**Inbox - Memorandum**” penerima
 
 ## **P-Office Versi IOS**
 
@@ -72,6 +72,6 @@ Langkah-langkah untuk Mengesahkan nomor Memorandum via IOS adalah sebagai beriku
 
 ![gambar](Memorandum/MM_IOS/Memo/N03.png) ![gambar](Memorandum/MM_IOS/Memo/N04.png) 
 
-3. Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor memorandum akan ter-_generate_ sesuai dengan nomor sementara pada detail. Memorandum yang sudah disetujui akan tersimpan di menu “**Outbox - Memorandum**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Memorandum**” penerima.
+3. Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor memorandum akan ter-_generate_ sesuai dengan nomor sementara pada detail. Memorandum yang sudah disetujui akan tersimpan di menu “**Sent Item - Memorandum**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Memorandum**” penerima.
 
 ![gambar](Memorandum/MM_IOS/Memo/N05.png) 

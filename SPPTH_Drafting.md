@@ -72,7 +72,7 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 ![gambar](SPPTH/SPPTH_Web/TH24.png)
 
-2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Outbox - SPPTH**"
+2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Sent Item - SPPTH**"
 
 ## **P-Office Versi Teams**
 
@@ -140,7 +140,7 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH24.png)
 
-2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Outbox - SPPTH”**
+2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Sent Item - SPPTH”**
 
 ## **P-Office Versi Android**
 
@@ -194,7 +194,7 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut:
 
 ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/U05.jpg)
 
-2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu “**Outbox - SPPTH**”
+2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu “**Sent Item - SPPTH**”
 
 ## **P-Office Versi IOS**
 
@@ -240,7 +240,7 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_IOS/SPPTH-16.1.png)
 
-2.	Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Outbox - SPPTH”**
+2.	Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Sent Item - SPPTH”**
 
 
 

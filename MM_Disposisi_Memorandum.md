@@ -27,7 +27,7 @@ Langkah-langkah untuk mendisposisikan memorandum via Web adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Web/MM-60.png)
 
-5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 ####	Disposisi melalui Menu Inbox
 
@@ -47,7 +47,7 @@ Langkah-langkah untuk mendisposisikan memorandum via Web adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Web/MM-64.png)
 
-5. Klik **Simpan** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik **Simpan** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 ## **P-Office Versi Teams**
 
@@ -71,7 +71,7 @@ Langkah-langkah untuk mendisposisi Memorandum via Teams adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Teams/MM59.png)
 
-5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 ####	**Disposisi melalui Menu Inbox**
 
@@ -91,7 +91,7 @@ Langkah-langkah untuk mendisposisi Memorandum via Teams adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Teams/MM63.png)
 
-5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 ## **P-Office Versi Android**
 
@@ -111,7 +111,7 @@ Langkah-langkah untuk mendisposisikan Memorandum adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Android/Disposisimemo/A05.jpg) ![gambar](Memorandum/MM_Android/Disposisimemo/A06.jpg)
 
-4. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu “**Draft – Memorandum**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu “**Outbox – Disposisi**”.
+4. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu “**Draft – Memorandum**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu “**Sent Item – Disposisi**”.
 
 ![gambar](Memorandum/MM_Android/Disposisimemo/A07.jpg)
 
@@ -133,7 +133,7 @@ Langkah-langkah untuk mendisposisikan memorandum via IOS adalah sebagai berikut
 
 ![gambar](Memorandum/MM_IOS/MM-53.png)
 
-4.	Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu “**Draft – Memorandum**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu “**Outbox – Disposisi**”
+4.	Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu “**Draft – Memorandum**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu “**Sent Item – Disposisi**”
 
 **Disposisi melalui Menu Disposisi**
 
@@ -150,7 +150,7 @@ Langkah-langkah untuk mendisposisikan memorandum via IOS adalah sebagai berikut
 
 ![gambar](Memorandum/MM_IOS/MM-58.png)
 
-4.	Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu “**Draft – Memorandum**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu “**Outbox – Disposisi**”.
+4.	Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu “**Draft – Memorandum**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu “**Sent Item – Disposisi**”.
 
 ## **P-Office Versi IOS**
 
@@ -170,7 +170,7 @@ Langkah-langkah untuk mendisposisikan Memorandum via IOS adalah sebagai berikut 
 
 ![gambar](Memorandum/MM_IOS/Memo/MM-5.png)
  
-4.	Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **“Draft – Memorandum”.** Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **“Outbox – Disposisi”.**
+4.	Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **“Draft – Memorandum”.** Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **“Sent Item – Disposisi”.**
 
 ##### **Disposisi melalui Menu Disposisi**
 
@@ -186,4 +186,4 @@ Langkah-langkah untuk mendisposisikan Memorandum via IOS adalah sebagai berikut 
 
 ![gambar](Memorandum/MM_IOS/Memo/MM-10.png)
 
-4.	Klik Save untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **“Draft – Memorandum”.** Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **“Outbox – Disposisi”.**
+4.	Klik Save untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **“Draft – Memorandum”.** Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **“Sent Item – Disposisi”.**

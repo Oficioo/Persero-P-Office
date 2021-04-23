@@ -20,7 +20,7 @@ Langkah - langkah untuk menyetujui SP3S via Web adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_Web/SP32.png)
 
-4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Outbox - SP3S**
+4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Sent Item - SP3S**
 
 ## **P-Office Versi Teams**
 
@@ -38,7 +38,7 @@ Langkah - langkah untuk setujui SP3S via Teams adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_Teams/SP3S33.png)
 
-4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Outbox – SP3S**
+4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Sent Item – SP3S**
 
 ## **P-Office Versi Android**
 
@@ -56,7 +56,7 @@ Langkah - langkah untuk Setujui SP3S via Android adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_Android/SetujuSP3S/A05.jpg) ![gambar](SP3S/SP3S_Android/SetujuSP3S/A06.jpg)
 
-4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Outbox – SP3S**
+4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Sent Item – SP3S**
 
 ## **P-Office Versi IOS**
 
@@ -74,4 +74,4 @@ Langkah - langkah untuk Setujui SP3S via IOS adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_IOS/SP3S-22.png)
 
-4.	Sistem berhasil menyimpan perubahan. SP3S yang sudah di **kirim** akan tersimpan di menu **Outbox – SP3S**
+4.	Sistem berhasil menyimpan perubahan. SP3S yang sudah di **kirim** akan tersimpan di menu **Sent Item – SP3S**

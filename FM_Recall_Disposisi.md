@@ -3,13 +3,13 @@
 - *Approver User*
 - *Reviewer User*
 
-*User* dapat melakukan *recall* / tarik disposisi fax masuk yang sudah dikirim kepada pejabat penerima disposisi. Fax masuk yang sudah dikirim ke pejabat penerima disposisi akan tersimpan di menu "**Outbox - Disposisi**" 
+*User* dapat melakukan *recall* / tarik disposisi fax masuk yang sudah dikirim kepada pejabat penerima disposisi. Fax masuk yang sudah dikirim ke pejabat penerima disposisi akan tersimpan di menu "**Sent Item - Disposisi**" 
 
 # **P-Office Versi Web**
 
 Langkah - langkah untuk melakukan recall disposisi fax masuk via Web adalah sebagai berikut :
 
-1. Klik menu **Outbox** dan pilih tab **Disposisi**
+1. Klik menu **Sent Item** dan pilih tab **Disposisi**
 
 ![gambar](FaxMasuk/FM_WEB/Recall01.png) 
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk melakukan recall disposisi fax masuk via Web adalah seba
 
 Langkah - langkah untuk recall disposisi fax masuk via Teams adalah sebagai berikut: 
 
-1. Klik menu **Outbox** dan pilih tab **Disposisi**
+1. Klik menu **Sent Item** dan pilih tab **Disposisi**
 
 ![gambar](FaxMasuk/FM_Teams/FM47.png)
 
@@ -38,7 +38,7 @@ Langkah - langkah untuk recall disposisi fax masuk via Teams adalah sebagai beri
 
 Langkah-langkah untuk Recaall Fax masuk via Android adalah sebagai berikut :
 
-1. Klik menu **Outbox** dan pilih tab **Disposisi**
+1. Klik menu **Sent Item** dan pilih tab **Disposisi**
 
 ![gambar](FaxMasuk/FM_Android/Recalldisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/A02.jpg)
 
@@ -55,7 +55,7 @@ Langkah-langkah untuk Recaall Fax masuk via Android adalah sebagai berikut :
 
 Langkah-langkah untuk melakukan recall disposisi fax masuk IOS adalah sebagai berikut :
 
-1. Klik menu **Outbox** dan pilih tab **Disposisi**
+1. Klik menu **Sent Item** dan pilih tab **Disposisi**
 
 ![gambar](FaxMasuk/FM_IOS/FM-37.1.png) ![gambar](FaxMasuk/FM_IOS/FM-37.2.png) 
 

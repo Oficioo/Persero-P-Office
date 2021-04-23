@@ -72,7 +72,7 @@ Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android adalah s
 
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A05.jpg)  
 
-4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Outbox-disposisi
+4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Sent Item-disposisi
 
 
 ## **P-Office Versi IOS**

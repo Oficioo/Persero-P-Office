@@ -11,7 +11,7 @@
 
 Langkah - langkah untuk informasi lengkap SP3S via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S.** Pilih salah satu SP3S yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SP3S.** Pilih salah satu SP3S yang akan dilihat informasinya
 
 ![gambar](SP3S/SP3S_Web/SP26.png)
 
@@ -37,7 +37,7 @@ Pada tab **History**, ditampilkan riwayat SP3S yang terdapat informasi jabatan, 
 
 Langkah - langkah untuk informasi lengkap SP3S via Teams adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
 
 ![gambar](SP3S/SP3S_Teams/SP3S26.png)
 
@@ -65,7 +65,7 @@ Pada tab **History**, ditampilkan riwayat SP3S yang terdapat informasi jabatan, 
 
 Langkah - langkah untuk informasi lengkap SP3S via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S.** Pilih salah satu SP3S yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SP3S.** Pilih salah satu SP3S yang akan dilihat informasinya
 
 ![gambar](SP3S/SP3S_Android/InfoSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/InfoSP3S/A02.jpg)
 
@@ -91,7 +91,7 @@ Pada tab **History**, ditampilkan riwayat SP3S yang terdapat informasi jabatan, 
 
 Langkah - langkah untuk informasi lengkap SP3S via IOS adalah sebagai berikut :
 
-1.	Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
+1.	Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
 
 ![gambar](SP3S/SP3S_IOS/SP3S-16.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-16.2.png)
 

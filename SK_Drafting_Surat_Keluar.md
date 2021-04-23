@@ -129,7 +129,7 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_Teams/SK30.png)
 
-2.	Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Outbox - Surat Keluar”**
+2.	Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Sent Item - Surat Keluar”**
 
 ## **P-Office Versi Android**
 
@@ -183,7 +183,7 @@ Langkah – langkah untuk mengubah isi surat keluar secara _online_ adalah sebag
 
 ![gambar](SuratKeluar/SK_Android/DraftSK/K01.jpg)
 
-2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”
+2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu “**Sent Item - Surat Keluar**”
 
 ## **P-Office Versi IOS**
 
@@ -221,4 +221,4 @@ Langkah-langkah untuk melakukan **Drafting** surat keluar via IOS adalah sebagai
 
 ![gambar](SuratKeluar/SK_IOS/SK-CR05.png)
 
-2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”
+2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu “**Sent Item - Surat Keluar**”

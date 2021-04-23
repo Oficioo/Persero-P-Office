@@ -5,13 +5,13 @@
 - *Member User* (Pekerja)
 - Sekretaris
 
-*User* dapat melihat daftar surat keluar pada pada menu **Inbox, Draft atau Outbox** pada masing - masing akun. 
+*User* dapat melihat daftar surat keluar pada pada menu **Inbox, Draft atau Sent Item** pada masing - masing akun. 
 
 ## **P-Office Versi Web**
 
 Langkah - langkah untuk melihat daftar surat keluar via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **Surat Keluar**
+1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Surat Keluar**
 
 ![gambar](SuratKeluar/SK_Web/SK01.png)
 
@@ -19,7 +19,7 @@ Langkah - langkah untuk melihat daftar surat keluar via Web adalah sebagai berik
 
 Langkah - langkah untuk daftar surat keluar via Teams adalah sebagai berikut :
 
-1.	Klik menu **Inbox / Draft / Outbox** dan pilih tab **Surat Keluar**
+1.	Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Surat Keluar**
 
  ![gambar](SuratKeluar/SK_Teams/SK01.png)
 
@@ -27,7 +27,7 @@ Langkah - langkah untuk daftar surat keluar via Teams adalah sebagai berikut :
 
 Langkah - langkah untuk melihat daftar surat keluar via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox/ Draft/ Outbox** dan pilih tab **Surat Keluar**
+1. Klik menu **Inbox/ Draft/ Sent Item** dan pilih tab **Surat Keluar**
 
 ![gambar](SuratKeluar/SK_Android/DaftarSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/DaftarSK/A02.jpg)
 
@@ -35,7 +35,7 @@ Langkah - langkah untuk melihat daftar surat keluar via Android adalah sebagai b
 
 Langkah – langkah untuk melihat daftar surat keluar via IOS adalah sebagai berikut : 
 
-1.	Klik menu **Inbox / Draft / Outbox** dan pilih tab **Surat Keluar**
+1.	Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Surat Keluar**
 
 ![gambar](SuratKeluar/SK_IOS/SK-1.png) ![gambar](SuratKeluar/SK_IOS/SK-2.png)
 

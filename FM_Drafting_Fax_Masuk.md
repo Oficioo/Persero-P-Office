@@ -21,7 +21,7 @@ Langkah-langkah untuk melakukan drafting fax masuk via Web adalah sebagai beriku
 
 ![gambar](FaxMasuk/FM_WEB/DraftFM03.png) 
 
-1. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Outbox - Fax Masuk"**
+1. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Sent Item - Fax Masuk"**
 
 ![gambar](FaxMasuk/FM_WEB/DraftFM03.png) 
 
@@ -43,7 +43,7 @@ Langkah - langkah untuk drafting fax masuk via Teams adalah sebagai berikut:
 
 ![gambar](FaxMasuk/FM_Teams/FM09.png)
 
-4.Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang tersimpan akan ada di **“Draf – Fax Masuk”** dan surat yang terkirim akan tersimpan di menu **“Outbox – Fax masuk”** 
+4.Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang tersimpan akan ada di **“Draf – Fax Masuk”** dan surat yang terkirim akan tersimpan di menu **“Sent Item – Fax masuk”** 
 
 ![gambar](FaxMasuk/FM_Teams/FM10.png)
 
@@ -64,7 +64,7 @@ Langkah-langkah untuk drafting fax masuk adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_Android/DraftFM/A05.jpg)
 
-4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Fax masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Fax masuk”**
    
 ## **P-Office Versi IOS**
 
@@ -82,6 +82,6 @@ Langkah-langkah untuk melakukan drafting fax masuk via IOS dalah sebagai berikut
    
 ![gambar](FaxMasuk/FM_IOS/FM-8.1.png) ![gambar](FaxMasuk/FM_IOS/FM-8.2.png)
 
-4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Fax Masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Fax Masuk”**
 
 ![gambar](FaxMasuk/FM_IOS/FM-9.png)

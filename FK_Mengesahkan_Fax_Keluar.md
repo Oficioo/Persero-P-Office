@@ -24,7 +24,7 @@
 
 ![gambar](FaxKeluar/FK_Web/FK-CR03.png)
 
-6. Surat keluar yang sudah disetujui akan tersimpan di menu **"Outbox - Surat Keluar"** pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Surat Keluar"** penerima
+6. Surat keluar yang sudah disetujui akan tersimpan di menu **"Sent Item - Surat Keluar"** pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Surat Keluar"** penerima
 
 ## **P-Office Versi Teams**
 
@@ -50,7 +50,7 @@ Langkah - langkah untuk mengesahkan fax keluar via Teams adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_Teams/FKN2.png)
 
-6.	Fax keluar yang sudah disetujui akan tersimpan di menu **“Outbox – Fax keluar”** pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Fax keluar”** penerima
+6.	Fax keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Fax keluar”** pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Fax keluar”** penerima
 
 
 ## **P-Office Versi Android**
@@ -77,7 +77,7 @@ Langkah - langkah untuk mengesahkan fax keluar via Android adalah sebagai beriku
    
 ![gambar](FaxKeluar/FK_Android/NomorFK/A09.jpg)
 
-6. Fax keluar yang sudah disetujui akan tersimpan di menu **“Outbox – Fax keluar”** pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Fax keluar”** penerima
+6. Fax keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Fax keluar”** pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Fax keluar”** penerima
 
 ## **P-Office Versi IOS**
 
@@ -95,5 +95,5 @@ Langkah - langkah untuk mengesahkan fax keluar via IOS adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_IOS/FK-42.png)
 
-4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
+4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 

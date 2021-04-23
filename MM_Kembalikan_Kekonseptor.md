@@ -21,7 +21,7 @@ Langkah - langkah untuk mengembalikan memorandum ke konseptor via Web adalah seb
 
 ![gambar](Memorandum/MM_Web/MM-45.png)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected - Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected - Memorandum**
 
 ## **P-Office Versi Teams**
 
@@ -39,7 +39,7 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Teams adalah seb
 
 ![gambar](Memorandum/MM_Teams/MM44.png)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
 ## **P-Office Versi Android**
 
@@ -57,7 +57,7 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Android adalah s
 
 ![gambar](Memorandum/MM_Android/Konseptormemo/A05.jpg) ![gambar](Memorandum/MM_Android/Konseptormemo/A06.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected – Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected – Memorandum**
 
 ## **P-Office Versi IOS**
 
@@ -71,8 +71,8 @@ Langkah-langkah untuk mengembalikan memorandum ke konseptor adalah sebagai berik
 
 ![gambar](Memorandum/MM_IOS/MM-81.png) ![gambar](Memorandum/MM_IOS/MM-43.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox – Memorandum**
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item – Memorandum**
 
 ![gambar](Memorandum/MM_IOS/MM-44.png)
 
-4.	Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
+4.	Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**

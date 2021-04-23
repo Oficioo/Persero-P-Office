@@ -21,7 +21,7 @@ Langkah - langkah untuk mengembalikan surat keluar ke sebelumnya via Web adalah 
 
 ![gambar](SuratKeluar/SK_Web/SK40.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
 ## **P-Office Versi Teams**
 
@@ -39,7 +39,7 @@ Langkah - langkah untuk Kembalikan kesebelumnya via Teams adalah sebagai berikut
  
 ![gambar](SuratKeluar/SK_Teams/SK42.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
 ## **P-Office Versi Android**
 
@@ -57,7 +57,7 @@ Langkah-langkah untuk mengembalikan surat keluar ke sebelumnya via Android adala
 
 ![gambar](SuratKeluar/SK_Android/KembaliSK/A04.jpg) ![gambar](SuratKeluar/SK_Android/KembaliSK/A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
 ## **P-Office Versi IOS**
 
@@ -71,6 +71,6 @@ Langkah-langkah untuk mengembalikan surat keluar ke sebelumnya via IOS adalah se
 
 ![gambar](SuratKeluar/SK_IOS/SK-65.png) ![gambar](SuratKeluar/SK_IOS/SK-38.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat Keluar**
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat Keluar**
 
 ![gambar](SuratKeluar/SK_IOS/SK-39.png)

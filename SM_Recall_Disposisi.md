@@ -3,13 +3,13 @@
 - *Approver User*
 - *Reviewer User*
 
-_User_ dapat melakukan _recall_ / tarik disposisi surat masuk yang sudah dikirim kepada pejabat penerima disposisi. Surat masuk yang sudah dikirim ke pejabat penerima disposisi akan tersimpan di menu "**Outbox - Disposisi**"
+_User_ dapat melakukan _recall_ / tarik disposisi surat masuk yang sudah dikirim kepada pejabat penerima disposisi. Surat masuk yang sudah dikirim ke pejabat penerima disposisi akan tersimpan di menu "**Sent Item - Disposisi**"
 
 ## **P-Office Versi Web**
 
 Langkah - langkah untuk recall disposisi surat masuk via Web adalah sebagai berikut :
 
-1.    Klik menu **Outbox** dan pilih tab **Disposisi**
+1.    Klik menu **Sent Item** dan pilih tab **Disposisi**
 
 ![gambar](SuratMasuk/SM_Web/SM42.png)
 
@@ -24,7 +24,7 @@ Langkah - langkah untuk recall disposisi surat masuk via Web adalah sebagai beri
 
 Langkah - langkah untuk recall disposisi via Teams adalah sebagai berikut :
 
-1. Klik menu **Outbox** dan pilih tab **Disposisi**
+1. Klik menu **Sent Item** dan pilih tab **Disposisi**
 
 ![gambar](SuratMasuk/SM_Teams/SM47.png)
 
@@ -39,7 +39,7 @@ Langkah - langkah untuk recall disposisi via Teams adalah sebagai berikut :
 
 Langkah - langkah untuk recall disposisi surat masuk via Android adalah sebagai berikut :
 
-1. Klik menu **Outbox** dan pilih tab **Disposisi**
+1. Klik menu **Sent Item** dan pilih tab **Disposisi**
    
 ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A02.jpg)
 
@@ -54,7 +54,7 @@ Langkah - langkah untuk recall disposisi surat masuk via Android adalah sebagai 
 
 Langkah-langkah untuk melakukan recall disposisi via IOS adalah sebagai berikut :
 
-1.	Klik menu **Outbox** dan pilih tab **Disposisi**
+1.	Klik menu **Sent Item** dan pilih tab **Disposisi**
 
 ![gambar](SuratMasuk/SM_IOS/SM-61.png) ![gambar](SuratMasuk/SM_IOS/SM-62.png)
 

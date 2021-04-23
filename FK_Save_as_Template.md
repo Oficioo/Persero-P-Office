@@ -24,7 +24,7 @@ Langkah - langkah untuk Save as Template via Web adalah sebagai berikut :
 
 ![gambar](FaxKeluar/FK_Web/FK15.jpg)
 
-5. Lakukan perubahan pada fax, klik **Save** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Fax Keluar"**.
+5. Lakukan perubahan pada fax, klik **Save** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Fax Keluar"**.
 
 ## **P-Office Versi Teams**
 
@@ -46,7 +46,7 @@ Langkah - langkah untuk save as template fax keluar via Teams adalah sebagai ber
 
 ![gambar](FaxKeluar/FK_Teams/FK17.png)
 
-5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Fax Keluar"**.
+5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Fax Keluar"**.
 
 ## **P-Office Versi Android**
 
@@ -68,7 +68,7 @@ Langkah - langkah untuk save as template fax keluar via Android adalah sebagai b
 
 ![gambar](FaxKeluar/FK_Android/TempFK/A07.jpg)
 
-5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **“Draft – Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Fax Keluar”.**
+5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **“Draft – Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Fax Keluar”.**
 
 ## **P-Office Versi IOS**
 
@@ -86,5 +86,5 @@ Langkah - langkah untuk save as template fax keluar via IOS adalah sebagai berik
 
 ![gambar](FaxKeluar/FK_IOS/FK-13.png) 
 
-4. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Fax Keluar”.**
+4. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Fax Keluar”.**
 

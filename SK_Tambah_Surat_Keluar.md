@@ -72,7 +72,7 @@ Langkah - langkah untuk mengirim surat keluar adalah sebagai berikut
 
 ![gambar](SuratKeluar/SK_Web/SK13.png)
 
-2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **"Outbox - Surat Keluar"**
+2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **"Sent Item - Surat Keluar"**
 
 ## **P-Office Versi Teams**
 
@@ -152,7 +152,7 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut :
 ![gambar](SuratKeluar/SK_Teams/SK14.png)
 
 
-2.	Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Outbox - Surat Keluar”**
+2.	Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Sent Item - Surat Keluar”**
 
 ## **P-Office Versi Android**
 

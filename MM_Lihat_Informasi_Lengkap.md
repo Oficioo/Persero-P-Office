@@ -10,7 +10,7 @@ _User_ dapat melihat informasi lengkap memorandum termasuk *preview* memorandum,
 
 Langkah - langkah untuk melihat informasi memorandum via Web adalah sebagai berikut
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**. Pilih salah satu memorandum yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Memorandum**. Pilih salah satu memorandum yang akan dilihat informasinya
 
 ![gambar](Memorandum/MM_Web/MM-30.png)
 
@@ -42,7 +42,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 Langkah-langkah untuk melihat informasi memorandum via Teams adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**. Pilih salah satu memorandum yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Memorandum**. Pilih salah satu memorandum yang akan dilihat informasinya
 
 ![gambar](Memorandum/MM_Teams/MM30.png)
 
@@ -76,7 +76,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 Langkah-langkah untuk melihat informasi memorandum via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Memorandum**
 
 ![gambar](Memorandum/MM_Android/Infomemo/A01.jpg)![gambar](Memorandum/MM_Android/Infomemo/A02.jpg) 
 
@@ -103,7 +103,7 @@ Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jab
 
 Langkah-langkah untuk melihat informasi memorandum via IOS adalah sebagai berikut.
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum.** Pilih salah satu memorandum yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Memorandum.** Pilih salah satu memorandum yang akan dilihat informasinya
 
 ![gambar](Memorandum/MM_IOS/MM-76.png)
 
